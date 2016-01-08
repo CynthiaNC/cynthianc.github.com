@@ -6,6 +6,7 @@ excerpt: try a record
 ---
 
 # My Informations
+
 | Name     | Age      | Hobbies     | Job      |
 | :------- | :------- | :---------- | :------- |
 | Cynthia  | 14       | Books,shows | Programer|
